@@ -1,0 +1,1953 @@
+2012/03/02 11:14:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usergroup/".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:14:51 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:16:08 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:22:08 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:23:16 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:23:17 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:23:17 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:23:18 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:23:18 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:27:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usergroup/".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:27:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usergroup/".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:27:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usergroup/".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:27:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usergroup/".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:27:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "usergroup/".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:27:25 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/
+---
+2012/03/02 11:32:03 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:32:08 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/create
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:32:11 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/browse
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:32:27 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:32:47 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/browse
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:42:46 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/browse
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:42:47 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/browse
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:42:48 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/browse
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:42:52 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:43:04 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/browse
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:46:06 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:47:02 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:47:03 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:47:08 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:47:09 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:47:14 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:55:52 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupTable', 'user_group')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:57:24 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupMessagesTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupMessag...', 'user_group_mess...')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:57:25 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupMessagesTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupMessag...', 'user_group_mess...')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 11:57:47 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule.usergroupMessagesTable" is not defined.' in D:\yii\framework\base\CComponent.php:174
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(483): CComponent->__set('usergroupMessag...', 'user_group_mess...')
+#1 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#2 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#3 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#4 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#5 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 12:01:20 [error] [exception.CException] exception 'CException' with message 'Property "UsergroupModule._tables" is not defined.' in D:\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(106): CComponent->__get('_tables')
+#1 D:\yii\srs\protected\modules\usergroup\UsergroupModule.php(38): CModule->__get('_tables')
+#2 D:\yii\srs\protected\modules\usergroup\UsergroupModule.php(56): UsergroupModule->__get('_tables')
+#3 D:\yii\framework\base\CModule.php(483): UsergroupModule->__set('usergroupTable', 'user_group')
+#4 D:\yii\framework\base\CModule.php(87): CModule->configure(Array)
+#5 D:\yii\framework\YiiBase.php(208): CModule->__construct('usergroup', NULL, Array)
+#6 D:\yii\framework\base\CModule.php(283): YiiBase::createComponent('usergroup.Userg...', 'usergroup', NULL, Array)
+#7 D:\yii\framework\web\CWebApplication.php(331): CModule->getModule('usergroup')
+#8 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController('usergroup/group...')
+#9 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#10 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 D:\yii\srs\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=profile/profile/view
+---
+2012/03/02 12:14:49 [error] [php] Missing argument 1 for CController::__construct(), called in D:\yii\srs\protected\modules\usergroup\controllers\YumUsergroupController.php on line 8 and defined (D:\yii\framework\web\CController.php:111)
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(326): createComponent()
+#1 D:\yii\framework\web\CWebApplication.php(332): CWebApplication->createController()
+#2 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController()
+#3 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#4 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+in D:\yii\srs\protected\modules\usergroup\controllers\YumUsergroupController.php (8)
+in D:\yii\srs\index.php (13)
+2012/03/02 12:15:00 [error] [php] Missing argument 1 for CController::__construct(), called in D:\yii\srs\protected\modules\usergroup\controllers\YumUsergroupController.php on line 7 and defined (D:\yii\framework\web\CController.php:111)
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(326): createComponent()
+#1 D:\yii\framework\web\CWebApplication.php(332): CWebApplication->createController()
+#2 D:\yii\framework\web\CWebApplication.php(270): CWebApplication->createController()
+#3 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#4 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#5 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+in D:\yii\srs\protected\modules\usergroup\controllers\YumUsergroupController.php (7)
+in D:\yii\srs\index.php (13)
+2012/03/02 12:15:06 [error] [exception.CException] exception 'CException' with message 'YumUsergroupController cannot find the requested view "index".' in D:\yii\framework\web\CController.php:879
+Stack trace:
+#0 D:\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#1 D:\yii\srs\protected\modules\usergroup\controllers\YumUsergroupController.php(168): CController->render('index', Array)
+#2 [internal function]: YumUsergroupController->actionIndex(NULL)
+#3 D:\yii\framework\web\actions\CAction.php(107): ReflectionMethod->invokeArgs(Object(YumUsergroupController), Array)
+#4 D:\yii\framework\web\actions\CInlineAction.php(48): CAction->runWithParamsInternal(Object(YumUsergroupController), Object(ReflectionMethod), Array)
+#5 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#6 D:\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#7 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#8 D:\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#9 D:\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#10 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#11 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#12 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 D:\yii\framework\web\CWebApplication.php(276): CController->run('index')
+#14 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#15 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#16 D:\yii\srs\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 12:15:24 [error] [exception.CException] exception 'CException' with message 'YumUsergroupController cannot find the requested view "index".' in D:\yii\framework\web\CController.php:879
+Stack trace:
+#0 D:\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#1 D:\yii\srs\protected\modules\usergroup\controllers\YumUsergroupController.php(167): CController->render('index', Array)
+#2 [internal function]: YumUsergroupController->actionIndex(NULL)
+#3 D:\yii\framework\web\actions\CAction.php(107): ReflectionMethod->invokeArgs(Object(YumUsergroupController), Array)
+#4 D:\yii\framework\web\actions\CInlineAction.php(48): CAction->runWithParamsInternal(Object(YumUsergroupController), Object(ReflectionMethod), Array)
+#5 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#6 D:\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#7 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#8 D:\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#9 D:\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#10 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#11 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#12 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 D:\yii\framework\web\CWebApplication.php(276): CController->run('index')
+#14 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#15 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#16 D:\yii\srs\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 12:15:25 [error] [exception.CException] exception 'CException' with message 'YumUsergroupController cannot find the requested view "index".' in D:\yii\framework\web\CController.php:879
+Stack trace:
+#0 D:\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#1 D:\yii\srs\protected\modules\usergroup\controllers\YumUsergroupController.php(167): CController->render('index', Array)
+#2 [internal function]: YumUsergroupController->actionIndex(NULL)
+#3 D:\yii\framework\web\actions\CAction.php(107): ReflectionMethod->invokeArgs(Object(YumUsergroupController), Array)
+#4 D:\yii\framework\web\actions\CInlineAction.php(48): CAction->runWithParamsInternal(Object(YumUsergroupController), Object(ReflectionMethod), Array)
+#5 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#6 D:\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#7 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#8 D:\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#9 D:\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#10 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#11 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#12 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 D:\yii\framework\web\CWebApplication.php(276): CController->run('index')
+#14 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('usergroup/group...')
+#15 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#16 D:\yii\srs\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/srs/index.php?r=usergroup/groups/index
+HTTP_REFERER=http://yii.localhost/srs/index.php?r=user/user/browse
+---
+2012/03/02 13:30:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "report".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php/report
+---
+2012/03/02 13:30:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "report/default".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/default')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php/report/default
+---
+2012/03/02 14:14:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "report/report/index".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/report/i...')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php/report/report/index
+HTTP_REFERER=http://yii.localhost/srs/index.php/profile/profile/view
+---
+2012/03/02 14:17:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "report/report/index".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/report/i...')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php/report/report/index
+HTTP_REFERER=http://yii.localhost/srs/index.php/profile/profile/view
+---
+2012/03/07 10:15:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "update".' in D:\yii\framework\web\CController.php:484
+Stack trace:
+#0 D:\yii\framework\web\CController.php(271): CController->missingAction('update')
+#1 D:\yii\framework\web\CWebApplication.php(276): CController->run('update')
+#2 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('role/permission...')
+#3 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 D:\yii\srs\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/srs/index.php/role/permission/update/id%5Bprincipal_id%5D/2/id%5Bsubordinate_id%5D/0/id%5Btype%5D/role/id%5Baction%5D/1
+HTTP_REFERER=http://yii.localhost/srs/index.php/role/permission/admin
+---
+2012/03/07 10:15:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "update".' in D:\yii\framework\web\CController.php:484
+Stack trace:
+#0 D:\yii\framework\web\CController.php(271): CController->missingAction('update')
+#1 D:\yii\framework\web\CWebApplication.php(276): CController->run('update')
+#2 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('role/permission...')
+#3 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 D:\yii\srs\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/srs/index.php/role/permission/update/id%5Bprincipal_id%5D/2/id%5Bsubordinate_id%5D/0/id%5Btype%5D/role/id%5Baction%5D/3
+HTTP_REFERER=http://yii.localhost/srs/index.php/role/permission/admin
+---
+2012/03/07 10:49:24 [error] [exception.CException] exception 'CException' with message 'TaskController cannot find the requested view "admin".' in D:\yii\framework\web\CController.php:879
+Stack trace:
+#0 D:\yii\framework\web\CController.php(783): CController->renderPartial('admin', Array, true)
+#1 D:\yii\srs\protected\modules\report\controllers\TaskController.php(24): CController->render('admin', Array)
+#2 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionIndex()
+#3 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#4 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#5 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 D:\yii\framework\web\CWebApplication.php(276): CController->run('index')
+#7 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/task/ind...')
+#8 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#9 D:\yii\srs\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/srs/index.php/report/task/index
+HTTP_REFERER=http://yii.localhost/srs/index.php/user/user/admin
+---
+2012/03/07 10:51:11 [error] [exception.CException] exception 'CException' with message 'TaskController and its behaviors do not have a method or closure named "renderMenu".' in D:\yii\framework\base\CComponent.php:266
+Stack trace:
+#0 D:\yii\srs\protected\modules\user\views\layouts\yum.php(12): CComponent->__call('renderMenu', Array)
+#1 D:\yii\srs\protected\modules\user\views\layouts\yum.php(12): TaskController->renderMenu()
+#2 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\prot...')
+#3 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', Array, true)
+#4 D:\yii\framework\web\CController.php(785): CBaseController->renderFile('D:\yii\srs\prot...', Array, true)
+#5 D:\yii\srs\protected\modules\report\controllers\TaskController.php(24): CController->render('index', Array)
+#6 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionIndex()
+#7 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#8 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#9 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 D:\yii\framework\web\CWebApplication.php(276): CController->run('index')
+#11 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/task/ind...')
+#12 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#13 D:\yii\srs\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/srs/index.php/report/task/index
+HTTP_REFERER=http://yii.localhost/srs/index.php/user/user/admin
+---
+2012/03/07 10:51:12 [error] [exception.CException] exception 'CException' with message 'TaskController and its behaviors do not have a method or closure named "renderMenu".' in D:\yii\framework\base\CComponent.php:266
+Stack trace:
+#0 D:\yii\srs\protected\modules\user\views\layouts\yum.php(12): CComponent->__call('renderMenu', Array)
+#1 D:\yii\srs\protected\modules\user\views\layouts\yum.php(12): TaskController->renderMenu()
+#2 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\prot...')
+#3 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', Array, true)
+#4 D:\yii\framework\web\CController.php(785): CBaseController->renderFile('D:\yii\srs\prot...', Array, true)
+#5 D:\yii\srs\protected\modules\report\controllers\TaskController.php(24): CController->render('index', Array)
+#6 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionIndex()
+#7 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#8 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#9 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 D:\yii\framework\web\CWebApplication.php(276): CController->run('index')
+#11 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/task/ind...')
+#12 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#13 D:\yii\srs\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/srs/index.php/report/task/index
+HTTP_REFERER=http://yii.localhost/srs/index.php/user/user/admin
+---
+2012/03/07 10:51:13 [error] [exception.CException] exception 'CException' with message 'TaskController and its behaviors do not have a method or closure named "renderMenu".' in D:\yii\framework\base\CComponent.php:266
+Stack trace:
+#0 D:\yii\srs\protected\modules\user\views\layouts\yum.php(12): CComponent->__call('renderMenu', Array)
+#1 D:\yii\srs\protected\modules\user\views\layouts\yum.php(12): TaskController->renderMenu()
+#2 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\prot...')
+#3 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', Array, true)
+#4 D:\yii\framework\web\CController.php(785): CBaseController->renderFile('D:\yii\srs\prot...', Array, true)
+#5 D:\yii\srs\protected\modules\report\controllers\TaskController.php(24): CController->render('index', Array)
+#6 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionIndex()
+#7 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#8 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#9 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 D:\yii\framework\web\CWebApplication.php(276): CController->run('index')
+#11 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/task/ind...')
+#12 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#13 D:\yii\srs\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/srs/index.php/report/task/index
+HTTP_REFERER=http://yii.localhost/srs/index.php/user/user/admin
+---
+2012/03/07 10:54:02 [error] [exception.CException] exception 'CException' with message 'Property "Task.username" is not defined.' in D:\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 D:\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('username')
+#1 D:\yii\framework\web\helpers\CHtml.php(2044): CActiveRecord->__get('username')
+#2 D:\yii\framework\web\helpers\CHtml.php(1774): CHtml::resolveValue(Object(Task), 'username')
+#3 D:\yii\framework\web\helpers\CHtml.php(1205): CHtml::activeInputField('text', Object(Task), 'username', Array)
+#4 D:\yii\framework\zii\widgets\grid\CDataColumn.php(105): CHtml::activeTextField(Object(Task), 'username', Array)
+#5 D:\yii\framework\zii\widgets\grid\CGridColumn.php(106): CDataColumn->renderFilterCellContent()
+#6 D:\yii\srs\protected\modules\user\components\CsvGridView.php(21): CGridColumn->renderFilterCell()
+#7 D:\yii\framework\zii\widgets\grid\CGridView.php(428): CsvGridView->renderFilter()
+#8 D:\yii\framework\zii\widgets\grid\CGridView.php(398): CGridView->renderTableHeader()
+#9 D:\yii\framework\zii\widgets\CBaseListView.php(158): CGridView->renderItems()
+#10 [internal function]: CBaseListView->renderSection(Array)
+#11 D:\yii\framework\zii\widgets\CBaseListView.php(141): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{item...')
+#12 D:\yii\framework\zii\widgets\CBaseListView.php(126): CBaseListView->renderContent()
+#13 D:\yii\framework\web\CBaseController.php(174): CBaseListView->run()
+#14 D:\yii\srs\protected\modules\report\views\task\index.php(53): CBaseController->widget('application.mod...', Array)
+#15 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\prot...')
+#16 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', Array, true)
+#17 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\prot...', Array, true)
+#18 D:\yii\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#19 D:\yii\srs\protected\modules\report\controllers\TaskController.php(25): CController->render('index', Array)
+#20 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionIndex()
+#21 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#22 D:\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#23 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#24 D:\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#25 D:\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#26 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#27 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#28 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#29 D:\yii\framework\web\CWebApplication.php(276): CController->run('index')
+#30 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/task/ind...')
+#31 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#32 D:\yii\srs\index.php(13): CApplication->run()
+#33 {main}
+REQUEST_URI=/srs/index.php/report/task/index
+HTTP_REFERER=http://yii.localhost/srs/index.php/user/user/admin
+---
+2012/03/07 11:03:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "report/csv/select".' in D:\yii\framework\web\CWebApplication.php:280
+Stack trace:
+#0 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/csv/sele...')
+#1 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 D:\yii\srs\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/srs/index.php/report/csv/select
+HTTP_REFERER=http://yii.localhost/srs/index.php/report/task/index
+---
+2012/03/07 12:00:29 [error] [exception.CException] exception 'CException' with message 'Alias "application.modules.report.models.TaskCreateForm" is invalid. Make sure it points to an existing PHP file.' in D:\yii\framework\YiiBase.php:318
+Stack trace:
+#0 D:\yii\framework\gii\generators\form\FormCode.php(58): YiiBase::import('application.mod...', true)
+#1 D:\yii\framework\validators\CInlineValidator.php(43): FormCode->validateModel('model', Array)
+#2 D:\yii\framework\validators\CValidator.php(197): CInlineValidator->validateAttribute(Object(FormCode), 'model')
+#3 D:\yii\framework\base\CModel.php(158): CValidator->validate(Object(FormCode), NULL)
+#4 D:\yii\framework\gii\CCodeGenerator.php(158): CModel->validate()
+#5 D:\yii\framework\gii\CCodeGenerator.php(64): CCodeGenerator->prepare()
+#6 D:\yii\framework\web\actions\CInlineAction.php(50): CCodeGenerator->actionIndex()
+#7 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#8 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#9 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 D:\yii\framework\web\CWebApplication.php(276): CController->run('')
+#11 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('gii/form')
+#12 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#13 D:\yii\srs\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/srs/index.php/gii/form
+HTTP_REFERER=http://yii.localhost/srs/index.php/gii/form
+---
+2012/03/07 12:01:22 [error] [exception.CException] exception 'CException' with message 'Alias "application.modules.report.modles.task" is invalid. Make sure it points to an existing PHP file.' in D:\yii\framework\YiiBase.php:318
+Stack trace:
+#0 D:\yii\framework\gii\generators\form\FormCode.php(58): YiiBase::import('application.mod...', true)
+#1 D:\yii\framework\validators\CInlineValidator.php(43): FormCode->validateModel('model', Array)
+#2 D:\yii\framework\validators\CValidator.php(197): CInlineValidator->validateAttribute(Object(FormCode), 'model')
+#3 D:\yii\framework\base\CModel.php(158): CValidator->validate(Object(FormCode), NULL)
+#4 D:\yii\framework\gii\CCodeGenerator.php(158): CModel->validate()
+#5 D:\yii\framework\gii\CCodeGenerator.php(64): CCodeGenerator->prepare()
+#6 D:\yii\framework\web\actions\CInlineAction.php(50): CCodeGenerator->actionIndex()
+#7 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#8 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#9 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 D:\yii\framework\web\CWebApplication.php(276): CController->run('')
+#11 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('gii/form')
+#12 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#13 D:\yii\srs\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/srs/index.php/gii/form
+HTTP_REFERER=http://yii.localhost/srs/index.php/gii/form
+---
+2012/03/07 12:04:37 [error] [php] Undefined variable: model (D:\yii\srs\protected\modules\report\views\task\create.php:10)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#2 D:\yii\srs\protected\modules\report\controllers\TaskController.php(8): TaskController->render()
+#3 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#4 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#5 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#6 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#8 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#9 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#10 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#12 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#13 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#14 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\create.php (10)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (8)
+in D:\yii\srs\index.php (13)
+2012/03/07 13:58:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "list".' in D:\yii\framework\web\CController.php:484
+Stack trace:
+#0 D:\yii\framework\web\CController.php(271): CController->missingAction('list')
+#1 D:\yii\framework\web\CWebApplication.php(276): CController->run('list')
+#2 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/report/l...')
+#3 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 D:\yii\srs\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/srs/index.php/report/report/list
+HTTP_REFERER=http://yii.localhost/srs/index.php/profile/profile/view
+---
+2012/03/07 14:02:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "submit".' in D:\yii\framework\web\CController.php:484
+Stack trace:
+#0 D:\yii\framework\web\CController.php(271): CController->missingAction('submit')
+#1 D:\yii\framework\web\CWebApplication.php(276): CController->run('submit')
+#2 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/report/s...')
+#3 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 D:\yii\srs\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/srs/index.php/report/report/submit
+HTTP_REFERER=http://yii.localhost/srs/index.php/profile/profile/view
+---
+2012/03/07 14:15:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested view "Demo 404 page" was not found.' in D:\yii\framework\web\actions\CViewAction.php:113
+Stack trace:
+#0 D:\yii\framework\web\actions\CViewAction.php(124): CViewAction->resolveView('Demo 404 page')
+#1 D:\yii\framework\web\actions\CAction.php(75): CViewAction->run()
+#2 D:\yii\framework\web\CController.php(309): CAction->runWithParams(Array)
+#3 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CViewAction))
+#4 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CViewAction), Array)
+#5 D:\yii\framework\web\CWebApplication.php(276): CController->run('page')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('site/page')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php/site/page?view=Demo+404+page
+HTTP_REFERER=http://yii.localhost/srs/index.php/site/page?view=buttons_and_icons
+---
+2012/03/07 14:16:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested view "Demo 404 page" was not found.' in D:\yii\framework\web\actions\CViewAction.php:113
+Stack trace:
+#0 D:\yii\framework\web\actions\CViewAction.php(124): CViewAction->resolveView('Demo 404 page')
+#1 D:\yii\framework\web\actions\CAction.php(75): CViewAction->run()
+#2 D:\yii\framework\web\CController.php(309): CAction->runWithParams(Array)
+#3 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CViewAction))
+#4 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CViewAction), Array)
+#5 D:\yii\framework\web\CWebApplication.php(276): CController->run('page')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('site/page')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php/site/page?view=Demo+404+page
+HTTP_REFERER=http://yii.localhost/srs/index.php/site/page?view=buttons_and_icons
+---
+2012/03/07 14:16:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested view "Demo 404 page" was not found.' in D:\yii\framework\web\actions\CViewAction.php:113
+Stack trace:
+#0 D:\yii\framework\web\actions\CViewAction.php(124): CViewAction->resolveView('Demo 404 page')
+#1 D:\yii\framework\web\actions\CAction.php(75): CViewAction->run()
+#2 D:\yii\framework\web\CController.php(309): CAction->runWithParams(Array)
+#3 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CViewAction))
+#4 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CViewAction), Array)
+#5 D:\yii\framework\web\CWebApplication.php(276): CController->run('page')
+#6 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('site/page')
+#7 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#8 D:\yii\srs\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/srs/index.php/site/page?view=Demo+404+page
+HTTP_REFERER=http://yii.localhost/srs/index.php/site/page?view=buttons_and_icons
+---
+2012/03/07 14:19:05 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.fullcalendar.FullcalendarGraphWidget" is invalid. Make sure it points to an existing PHP file.' in D:\yii\framework\YiiBase.php:318
+Stack trace:
+#0 D:\yii\framework\web\CWidgetFactory.php(147): YiiBase::import('application.ext...', true)
+#1 D:\yii\framework\web\CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'application.ext...', Array)
+#2 D:\yii\framework\web\CBaseController.php(173): CBaseController->createWidget('application.ext...', Array)
+#3 D:\yii\srs\themes\dancer\views\site\pages\about.php(25): CBaseController->widget('application.ext...', Array)
+#4 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\them...')
+#5 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\them...', NULL, true)
+#6 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\them...', NULL, true)
+#7 D:\yii\framework\web\CController.php(783): CController->renderPartial('pages/about', NULL, true)
+#8 D:\yii\framework\web\actions\CViewAction.php(141): CController->render('pages/about')
+#9 D:\yii\framework\web\actions\CAction.php(75): CViewAction->run()
+#10 D:\yii\framework\web\CController.php(309): CAction->runWithParams(Array)
+#11 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CViewAction))
+#12 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CViewAction), Array)
+#13 D:\yii\framework\web\CWebApplication.php(276): CController->run('page')
+#14 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('site/page')
+#15 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#16 D:\yii\srs\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/srs/index.php/site/page?view=about
+HTTP_REFERER=http://yii.localhost/srs/index.php/site/index
+---
+2012/03/07 14:19:16 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.fullcalendar.FullcalendarGraphWidget" is invalid. Make sure it points to an existing PHP file.' in D:\yii\framework\YiiBase.php:318
+Stack trace:
+#0 D:\yii\framework\web\CWidgetFactory.php(147): YiiBase::import('application.ext...', true)
+#1 D:\yii\framework\web\CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'application.ext...', Array)
+#2 D:\yii\framework\web\CBaseController.php(173): CBaseController->createWidget('application.ext...', Array)
+#3 D:\yii\srs\themes\dancer\views\site\pages\about.php(25): CBaseController->widget('application.ext...', Array)
+#4 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\them...')
+#5 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\them...', NULL, true)
+#6 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\them...', NULL, true)
+#7 D:\yii\framework\web\CController.php(783): CController->renderPartial('pages/about', NULL, true)
+#8 D:\yii\framework\web\actions\CViewAction.php(141): CController->render('pages/about')
+#9 D:\yii\framework\web\actions\CAction.php(75): CViewAction->run()
+#10 D:\yii\framework\web\CController.php(309): CAction->runWithParams(Array)
+#11 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CViewAction))
+#12 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CViewAction), Array)
+#13 D:\yii\framework\web\CWebApplication.php(276): CController->run('page')
+#14 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('site/page')
+#15 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#16 D:\yii\srs\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/srs/index.php/site/page?view=about
+HTTP_REFERER=http://yii.localhost/srs/index.php/site/contact
+---
+2012/03/07 14:19:41 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.fullcalendar.FullcalendarGraphWidget" is invalid. Make sure it points to an existing PHP file.' in D:\yii\framework\YiiBase.php:318
+Stack trace:
+#0 D:\yii\framework\web\CWidgetFactory.php(147): YiiBase::import('application.ext...', true)
+#1 D:\yii\framework\web\CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'application.ext...', Array)
+#2 D:\yii\framework\web\CBaseController.php(173): CBaseController->createWidget('application.ext...', Array)
+#3 D:\yii\srs\themes\dancer\views\site\pages\about.php(25): CBaseController->widget('application.ext...', Array)
+#4 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\them...')
+#5 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\them...', NULL, true)
+#6 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\them...', NULL, true)
+#7 D:\yii\framework\web\CController.php(783): CController->renderPartial('pages/about', NULL, true)
+#8 D:\yii\framework\web\actions\CViewAction.php(141): CController->render('pages/about')
+#9 D:\yii\framework\web\actions\CAction.php(75): CViewAction->run()
+#10 D:\yii\framework\web\CController.php(309): CAction->runWithParams(Array)
+#11 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CViewAction))
+#12 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CViewAction), Array)
+#13 D:\yii\framework\web\CWebApplication.php(276): CController->run('page')
+#14 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('site/page')
+#15 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#16 D:\yii\srs\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/srs/index.php/site/page?view=about
+HTTP_REFERER=http://yii.localhost/srs/index.php/site/contact
+---
+2012/03/07 14:19:42 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.fullcalendar.FullcalendarGraphWidget" is invalid. Make sure it points to an existing PHP file.' in D:\yii\framework\YiiBase.php:318
+Stack trace:
+#0 D:\yii\framework\web\CWidgetFactory.php(147): YiiBase::import('application.ext...', true)
+#1 D:\yii\framework\web\CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'application.ext...', Array)
+#2 D:\yii\framework\web\CBaseController.php(173): CBaseController->createWidget('application.ext...', Array)
+#3 D:\yii\srs\themes\dancer\views\site\pages\about.php(25): CBaseController->widget('application.ext...', Array)
+#4 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\them...')
+#5 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\them...', NULL, true)
+#6 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\them...', NULL, true)
+#7 D:\yii\framework\web\CController.php(783): CController->renderPartial('pages/about', NULL, true)
+#8 D:\yii\framework\web\actions\CViewAction.php(141): CController->render('pages/about')
+#9 D:\yii\framework\web\actions\CAction.php(75): CViewAction->run()
+#10 D:\yii\framework\web\CController.php(309): CAction->runWithParams(Array)
+#11 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CViewAction))
+#12 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CViewAction), Array)
+#13 D:\yii\framework\web\CWebApplication.php(276): CController->run('page')
+#14 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('site/page')
+#15 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#16 D:\yii\srs\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/srs/index.php/site/page?view=about
+HTTP_REFERER=http://yii.localhost/srs/index.php/site/contact
+---
+2012/03/07 14:19:44 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.fullcalendar.FullcalendarGraphWidget" is invalid. Make sure it points to an existing PHP file.' in D:\yii\framework\YiiBase.php:318
+Stack trace:
+#0 D:\yii\framework\web\CWidgetFactory.php(147): YiiBase::import('application.ext...', true)
+#1 D:\yii\framework\web\CBaseController.php(147): CWidgetFactory->createWidget(Object(SiteController), 'application.ext...', Array)
+#2 D:\yii\framework\web\CBaseController.php(173): CBaseController->createWidget('application.ext...', Array)
+#3 D:\yii\srs\themes\dancer\views\site\pages\about.php(25): CBaseController->widget('application.ext...', Array)
+#4 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\them...')
+#5 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\them...', NULL, true)
+#6 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\them...', NULL, true)
+#7 D:\yii\framework\web\CController.php(783): CController->renderPartial('pages/about', NULL, true)
+#8 D:\yii\framework\web\actions\CViewAction.php(141): CController->render('pages/about')
+#9 D:\yii\framework\web\actions\CAction.php(75): CViewAction->run()
+#10 D:\yii\framework\web\CController.php(309): CAction->runWithParams(Array)
+#11 D:\yii\framework\web\CController.php(287): CController->runAction(Object(CViewAction))
+#12 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CViewAction), Array)
+#13 D:\yii\framework\web\CWebApplication.php(276): CController->run('page')
+#14 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('site/page')
+#15 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#16 D:\yii\srs\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/srs/index.php/site/page?view=about
+HTTP_REFERER=http://yii.localhost/srs/index.php/site/contact
+---
+2012/03/07 14:36:45 [error] [exception.CException] exception 'CException' with message 'Property "UserModule.adminLayout" is not defined.' in D:\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 D:\yii\framework\base\CModule.php(106): CComponent->__get('adminLayout')
+#1 D:\yii\srs\protected\modules\user\UserModule.php(198): CModule->__get('adminLayout')
+#2 D:\yii\srs\protected\modules\user\UserModule.php(238): UserModule->__get('adminLayout')
+#3 D:\yii\framework\web\CController.php(264): UserModule->beforeControllerAction(Object(YumUserController), Object(CInlineAction))
+#4 D:\yii\framework\web\CWebApplication.php(276): CController->run('')
+#5 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('user/user')
+#6 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#7 D:\yii\srs\index.php(13): CApplication->run()
+#8 {main}
+REQUEST_URI=/srs/index.php/user/user
+HTTP_REFERER=http://yii.localhost/srs/index.php/profile/profile/view
+---
+2012/03/07 14:59:18 [error] [php] Missing argument 3 for CActiveForm::dropDownList(), called in D:\yii\srs\protected\modules\report\views\task\_form.php on line 14 and defined (D:\yii\framework\web\widgets\CActiveForm.php:672)
+Stack trace:
+#0 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#1 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#2 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#3 D:\yii\framework\web\CBaseController.php(127): require()
+#4 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#5 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#6 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#7 D:\yii\srs\protected\modules\report\controllers\TaskController.php(78): TaskController->render()
+#8 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#9 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#10 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#11 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#12 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#13 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#14 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#15 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#16 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#17 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#18 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#19 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#20 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (78)
+2012/03/07 15:01:08 [error] [php] Undefined variable: search (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(78): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (78)
+2012/03/07 15:01:09 [error] [php] Undefined variable: search (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(78): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (78)
+2012/03/07 15:07:37 [error] [php] Object of class Project could not be converted to string (D:\yii\framework\web\helpers\CHtml.php:1865)
+Stack trace:
+#0 D:\yii\srs\protected\modules\report\views\task\_form.php(14): CActiveForm->dropDownList()
+#1 D:\yii\framework\web\CBaseController.php(127): require()
+#2 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#3 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#4 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#5 D:\yii\framework\web\CBaseController.php(127): require()
+#6 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#7 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#8 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#9 D:\yii\srs\protected\modules\report\controllers\TaskController.php(78): TaskController->render()
+#10 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#11 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#12 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#13 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#14 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#15 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#16 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#17 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#18 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#19 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#20 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#21 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#22 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (78)
+2012/03/07 15:14:47 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(80): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (80)
+2012/03/07 15:14:48 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(80): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (80)
+2012/03/07 15:15:01 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:15:03 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:15:20 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:15:20 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:15:23 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:15:53 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:15:53 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:15:54 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:15:54 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:15:54 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:15:54 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:21:55 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:21:55 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:21:56 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:21:56 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:21:56 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\create.php(15): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): TaskController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/create
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (81)
+2012/03/07 15:23:01 [error] [exception.CException] exception 'CException' with message 'Property "Project.project_id" is not defined.' in D:\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 D:\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('project_id')
+#1 D:\yii\framework\web\helpers\CHtml.php(1696): CActiveRecord->__get('project_id')
+#2 D:\yii\framework\web\helpers\CHtml.php(1659): CHtml::value(Object(Project), 'project_id')
+#3 D:\yii\srs\protected\modules\report\views\task\_form.php(14): CHtml::listData(Array, 'project_id', 'project_name')
+#4 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\prot...')
+#5 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', Array, true)
+#6 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\prot...', Array, true)
+#7 D:\yii\srs\protected\modules\report\views\task\create.php(15): CController->renderPartial('_form', Array)
+#8 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\prot...')
+#9 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', Array, true)
+#10 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\prot...', Array, true)
+#11 D:\yii\framework\web\CController.php(783): CController->renderPartial('create', Array, true)
+#12 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): CController->render('create', Array)
+#13 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#14 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#15 D:\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#16 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#17 D:\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#18 D:\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#19 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#20 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#21 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 D:\yii\framework\web\CWebApplication.php(276): CController->run('create')
+#23 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/task/cre...')
+#24 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#25 D:\yii\srs\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/srs/index.php/report/task/create
+HTTP_REFERER=http://yii.localhost/srs/index.php/report/task/index
+---
+2012/03/07 15:23:02 [error] [exception.CException] exception 'CException' with message 'Property "Project.project_id" is not defined.' in D:\yii\framework\base\CComponent.php:131
+Stack trace:
+#0 D:\yii\framework\db\ar\CActiveRecord.php(144): CComponent->__get('project_id')
+#1 D:\yii\framework\web\helpers\CHtml.php(1696): CActiveRecord->__get('project_id')
+#2 D:\yii\framework\web\helpers\CHtml.php(1659): CHtml::value(Object(Project), 'project_id')
+#3 D:\yii\srs\protected\modules\report\views\task\_form.php(14): CHtml::listData(Array, 'project_id', 'project_name')
+#4 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\prot...')
+#5 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', Array, true)
+#6 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\prot...', Array, true)
+#7 D:\yii\srs\protected\modules\report\views\task\create.php(15): CController->renderPartial('_form', Array)
+#8 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\prot...')
+#9 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', Array, true)
+#10 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\prot...', Array, true)
+#11 D:\yii\framework\web\CController.php(783): CController->renderPartial('create', Array, true)
+#12 D:\yii\srs\protected\modules\report\controllers\TaskController.php(81): CController->render('create', Array)
+#13 D:\yii\framework\web\actions\CInlineAction.php(50): TaskController->actionCreate()
+#14 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#15 D:\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#16 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#17 D:\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#18 D:\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#19 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#20 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#21 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 D:\yii\framework\web\CWebApplication.php(276): CController->run('create')
+#23 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/task/cre...')
+#24 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#25 D:\yii\srs\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/srs/index.php/report/task/create
+HTTP_REFERER=http://yii.localhost/srs/index.php/report/task/index
+---
+2012/03/07 16:11:48 [error] [exception.CException] exception 'CException' with message 'TaskController cannot find the requested view "view".' in D:\yii\framework\web\CController.php:879
+Stack trace:
+#0 D:\yii\framework\web\CController.php(783): CController->renderPartial('view', Array, true)
+#1 D:\yii\srs\protected\modules\report\controllers\TaskController.php(55): CController->render('view', Array)
+#2 [internal function]: TaskController->actionView('1')
+#3 D:\yii\framework\web\actions\CAction.php(107): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#4 D:\yii\framework\web\actions\CInlineAction.php(48): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#5 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#6 D:\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#7 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#8 D:\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#9 D:\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#10 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#11 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#12 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 D:\yii\framework\web\CWebApplication.php(276): CController->run('view')
+#14 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/task/vie...')
+#15 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#16 D:\yii\srs\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/srs/index.php/report/task/view/id/1
+HTTP_REFERER=http://yii.localhost/srs/index.php/report/task/create
+---
+2012/03/07 16:14:27 [error] [exception.CException] exception 'CException' with message 'TaskController cannot find the requested view "update".' in D:\yii\framework\web\CController.php:879
+Stack trace:
+#0 D:\yii\framework\web\CController.php(783): CController->renderPartial('update', Array, true)
+#1 D:\yii\srs\protected\modules\report\controllers\TaskController.php(105): CController->render('update', Array)
+#2 [internal function]: TaskController->actionUpdate('1')
+#3 D:\yii\framework\web\actions\CAction.php(107): ReflectionMethod->invokeArgs(Object(TaskController), Array)
+#4 D:\yii\framework\web\actions\CInlineAction.php(48): CAction->runWithParamsInternal(Object(TaskController), Object(ReflectionMethod), Array)
+#5 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#6 D:\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#7 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#8 D:\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#9 D:\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#10 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#11 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#12 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 D:\yii\framework\web\CWebApplication.php(276): CController->run('update')
+#14 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/task/upd...')
+#15 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#16 D:\yii\srs\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/srs/index.php/report/task/update/id/1
+HTTP_REFERER=http://yii.localhost/srs/index.php/report/task/view/id/1
+---
+2012/03/07 16:15:13 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\update.php(18): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(105): TaskController->render()
+#7 unknown(0): TaskController->actionUpdate()
+#8 D:\yii\framework\web\actions\CAction.php(107): ReflectionMethod->invokeArgs()
+#9 D:\yii\framework\web\actions\CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#10 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#11 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#12 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#13 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#14 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#15 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#16 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#17 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#18 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#19 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#20 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#21 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/update/id/1
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\update.php (18)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (105)
+2012/03/07 16:15:14 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\_form.php:14)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\task\update.php(18): TaskController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): TaskController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\TaskController.php(105): TaskController->render()
+#7 unknown(0): TaskController->actionUpdate()
+#8 D:\yii\framework\web\actions\CAction.php(107): ReflectionMethod->invokeArgs()
+#9 D:\yii\framework\web\actions\CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#10 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#11 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#12 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#13 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#14 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#15 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#16 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#17 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#18 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#19 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#20 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#21 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/update/id/1
+in D:\yii\srs\protected\modules\report\views\task\_form.php (14)
+in D:\yii\srs\protected\modules\report\views\task\update.php (18)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (105)
+2012/03/07 16:15:33 [error] [php] Undefined variable: projects (D:\yii\srs\protected\modules\report\views\task\update.php:18)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): TaskController->renderFile()
+#1 D:\yii\framework\web\CController.php(783): TaskController->renderPartial()
+#2 D:\yii\srs\protected\modules\report\controllers\TaskController.php(105): TaskController->render()
+#3 unknown(0): TaskController->actionUpdate()
+#4 D:\yii\framework\web\actions\CAction.php(107): ReflectionMethod->invokeArgs()
+#5 D:\yii\framework\web\actions\CInlineAction.php(48): CInlineAction->runWithParamsInternal()
+#6 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#7 D:\yii\framework\web\filters\CFilterChain.php(134): TaskController->runAction()
+#8 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#9 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#10 D:\yii\framework\web\filters\CInlineFilter.php(59): TaskController->filterAccessControl()
+#11 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#12 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#13 D:\yii\framework\web\CController.php(266): TaskController->runActionWithFilters()
+#14 D:\yii\framework\web\CWebApplication.php(276): TaskController->run()
+#15 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#16 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#17 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/task/update/id/1
+in D:\yii\srs\protected\modules\report\views\task\update.php (18)
+in D:\yii\srs\protected\modules\report\controllers\TaskController.php (105)
+in D:\yii\srs\index.php (13)
+2012/03/07 16:24:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "list".' in D:\yii\framework\web\CController.php:484
+Stack trace:
+#0 D:\yii\framework\web\CController.php(271): CController->missingAction('list')
+#1 D:\yii\framework\web\CWebApplication.php(276): CController->run('list')
+#2 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/report/l...')
+#3 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 D:\yii\srs\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/srs/index.php/report/report/list
+HTTP_REFERER=http://yii.localhost/srs/index.php/profile/profile/view
+---
+2012/03/08 08:40:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "list".' in D:\yii\framework\web\CController.php:484
+Stack trace:
+#0 D:\yii\framework\web\CController.php(271): CController->missingAction('list')
+#1 D:\yii\framework\web\CWebApplication.php(276): CController->run('list')
+#2 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/report/l...')
+#3 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 D:\yii\srs\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/srs/index.php/report/report/list
+HTTP_REFERER=http://yii.localhost/srs/index.php/profile/profile/view
+---
+2012/03/08 08:41:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "list".' in D:\yii\framework\web\CController.php:484
+Stack trace:
+#0 D:\yii\framework\web\CController.php(271): CController->missingAction('list')
+#1 D:\yii\framework\web\CWebApplication.php(276): CController->run('list')
+#2 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/report/l...')
+#3 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 D:\yii\srs\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/srs/index.php/report/report/list
+HTTP_REFERER=http://yii.localhost/srs/index.php/profile/profile/view
+---
+2012/03/13 09:08:06 [error] [php] Undefined variable: event (D:\yii\srs\protected\modules\report\views\report\_form.php:13)
+Stack trace:
+#0 D:\yii\framework\web\CController.php(870): ReportController->renderFile()
+#1 D:\yii\srs\protected\modules\report\views\report\create.php(15): ReportController->renderPartial()
+#2 D:\yii\framework\web\CBaseController.php(127): require()
+#3 D:\yii\framework\web\CBaseController.php(96): ReportController->renderInternal()
+#4 D:\yii\framework\web\CController.php(870): ReportController->renderFile()
+#5 D:\yii\framework\web\CController.php(783): ReportController->renderPartial()
+#6 D:\yii\srs\protected\modules\report\controllers\ReportController.php(78): ReportController->render()
+#7 D:\yii\framework\web\actions\CInlineAction.php(50): ReportController->actionCreate()
+#8 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#9 D:\yii\framework\web\filters\CFilterChain.php(134): ReportController->runAction()
+#10 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#11 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#12 D:\yii\framework\web\filters\CInlineFilter.php(59): ReportController->filterAccessControl()
+#13 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#14 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#15 D:\yii\framework\web\CController.php(266): ReportController->runActionWithFilters()
+#16 D:\yii\framework\web\CWebApplication.php(276): ReportController->run()
+#17 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#18 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#19 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/report/create
+in D:\yii\srs\protected\modules\report\views\report\_form.php (13)
+in D:\yii\srs\protected\modules\report\views\report\create.php (15)
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (78)
+2012/03/13 14:50:37 [warning] [application] Failed to set unsafe attribute "date" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:37 [warning] [application] Failed to set unsafe attribute "user_id" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:37 [warning] [application] Failed to set unsafe attribute "is_draft" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:48 [warning] [application] Failed to set unsafe attribute "date" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:48 [warning] [application] Failed to set unsafe attribute "user_id" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:48 [warning] [application] Failed to set unsafe attribute "is_draft" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:49 [warning] [application] Failed to set unsafe attribute "date" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:49 [warning] [application] Failed to set unsafe attribute "user_id" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:49 [warning] [application] Failed to set unsafe attribute "is_draft" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:49 [warning] [application] Failed to set unsafe attribute "date" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:49 [warning] [application] Failed to set unsafe attribute "user_id" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/13 14:50:49 [warning] [application] Failed to set unsafe attribute "is_draft" of "Report".
+in D:\yii\srs\protected\modules\report\controllers\ReportController.php (71)
+in D:\yii\srs\index.php (13)
+2012/03/14 14:25:53 [error] [php] Undefined variable: dataArr (D:\yii\srs\protected\extensions\simple-calendar\SimpleCalendarWidget.php:198)
+Stack trace:
+#0 D:\yii\framework\web\CBaseController.php(96): SimpleCalendarWidget->renderInternal()
+#1 D:\yii\framework\web\widgets\CWidget.php(244): SimpleCalendarWidget->renderFile()
+#2 D:\yii\srs\protected\extensions\simple-calendar\SimpleCalendarWidget.php(30): SimpleCalendarWidget->render()
+#3 D:\yii\framework\web\CBaseController.php(174): SimpleCalendarWidget->run()
+#4 D:\yii\srs\protected\modules\report\views\report\_form.php(23): ReportController->widget()
+#5 D:\yii\framework\web\CBaseController.php(127): require()
+#6 D:\yii\framework\web\CBaseController.php(96): ReportController->renderInternal()
+#7 D:\yii\framework\web\CController.php(870): ReportController->renderFile()
+#8 D:\yii\srs\protected\modules\report\views\report\create.php(15): ReportController->renderPartial()
+#9 D:\yii\framework\web\CBaseController.php(127): require()
+#10 D:\yii\framework\web\CBaseController.php(96): ReportController->renderInternal()
+#11 D:\yii\framework\web\CController.php(870): ReportController->renderFile()
+#12 D:\yii\framework\web\CController.php(783): ReportController->renderPartial()
+#13 D:\yii\srs\protected\modules\report\controllers\ReportController.php(78): ReportController->render()
+#14 D:\yii\framework\web\actions\CInlineAction.php(50): ReportController->actionCreate()
+#15 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams()
+#16 D:\yii\framework\web\filters\CFilterChain.php(134): ReportController->runAction()
+#17 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#18 D:\yii\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#19 D:\yii\framework\web\filters\CInlineFilter.php(59): ReportController->filterAccessControl()
+#20 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#21 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#22 D:\yii\framework\web\CController.php(266): ReportController->runActionWithFilters()
+#23 D:\yii\framework\web\CWebApplication.php(276): ReportController->run()
+#24 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#25 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#26 D:\yii\srs\index.php(13): CWebApplication->run()
+REQUEST_URI=/srs/index.php/report/report/create
+in D:\yii\srs\protected\extensions\simple-calendar\SimpleCalendarWidget.php (198)
+in D:\yii\srs\protected\extensions\simple-calendar\views\simple-calendar.php (14)
+in D:\yii\srs\protected\extensions\simple-calendar\SimpleCalendarWidget.php (30)
+2012/03/19 11:42:54 [error] [exception.CException] exception 'CException' with message 'Report and its behaviors do not have a method or closure named "findById".' in D:\yii\framework\base\CComponent.php:266
+Stack trace:
+#0 D:\yii\framework\db\ar\CActiveRecord.php(226): CComponent->__call('findById', Array)
+#1 D:\yii\srs\protected\extensions\simple-calendar\SimpleCalendarWidget.php(204): CActiveRecord->__call('findById', Array)
+#2 D:\yii\srs\protected\extensions\simple-calendar\SimpleCalendarWidget.php(204): Report->findById(1)
+#3 D:\yii\srs\protected\extensions\simple-calendar\views\simple-calendar.php(14): SimpleCalendarWidget->dayIsReported(14)
+#4 D:\yii\framework\web\CBaseController.php(131): require('D:\yii\srs\prot...')
+#5 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', NULL, false)
+#6 D:\yii\framework\web\widgets\CWidget.php(244): CBaseController->renderFile('D:\yii\srs\prot...', NULL, false)
+#7 D:\yii\srs\protected\extensions\simple-calendar\SimpleCalendarWidget.php(30): CWidget->render('simple-calendar')
+#8 D:\yii\framework\web\CBaseController.php(174): SimpleCalendarWidget->run()
+#9 D:\yii\srs\protected\modules\report\views\report\_form.php(23): CBaseController->widget('ext.simple-cale...')
+#10 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\prot...')
+#11 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', Array, true)
+#12 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\prot...', Array, true)
+#13 D:\yii\srs\protected\modules\report\views\report\create.php(15): CController->renderPartial('_form', Array)
+#14 D:\yii\framework\web\CBaseController.php(127): require('D:\yii\srs\prot...')
+#15 D:\yii\framework\web\CBaseController.php(96): CBaseController->renderInternal('D:\yii\srs\prot...', Array, true)
+#16 D:\yii\framework\web\CController.php(870): CBaseController->renderFile('D:\yii\srs\prot...', Array, true)
+#17 D:\yii\framework\web\CController.php(783): CController->renderPartial('create', Array, true)
+#18 D:\yii\srs\protected\modules\report\controllers\ReportController.php(78): CController->render('create', Array)
+#19 D:\yii\framework\web\actions\CInlineAction.php(50): ReportController->actionCreate()
+#20 D:\yii\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#21 D:\yii\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#22 D:\yii\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#23 D:\yii\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#24 D:\yii\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#25 D:\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#26 D:\yii\framework\web\CController.php(292): CFilterChain->run()
+#27 D:\yii\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 D:\yii\framework\web\CWebApplication.php(276): CController->run('create')
+#29 D:\yii\framework\web\CWebApplication.php(135): CWebApplication->runController('report/report/c...')
+#30 D:\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#31 D:\yii\srs\index.php(13): CApplication->run()
+#32 {main}
+REQUEST_URI=/srs/index.php/report/report/create
+HTTP_REFERER=http://yii.localhost/srs/index.php/report/report/admin
+---
